@@ -1,3 +1,6 @@
+# udemy-angular-complete-guide-2020
+lerning angular 
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
